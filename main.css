@@ -1,0 +1,40 @@
+* {
+  margin: auto;
+}
+
+body {
+  font-family: sans-serif;
+}
+body h1, body h3 {
+  margin: 5%;
+  font-weight: bolder;
+  font-size: 5vw;
+  text-align: left;
+  line-height: 120%;
+}
+body label {
+  margin: 2vw;
+}
+body input {
+  padding: 1vw;
+  margin: 2vw;
+  margin-top: 0;
+}
+body section {
+  width: 100vw;
+}
+body .genderbday {
+  display: flex;
+  justify-content: left;
+}
+body .submit {
+  margin-top: 1vw;
+}
+body .allergies {
+  width: 80vw;
+}
+body .phone {
+  display: flex;
+}
+
+/*# sourceMappingURL=main.css.map */
